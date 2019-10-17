@@ -1,3 +1,5 @@
+SharedArray works only in OSX and Linux.
+
 ## References
 
     https://realpython.com/primer-on-python-decorators/
