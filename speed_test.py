@@ -5,5 +5,7 @@ def test_speed(func):
         start = time.time()
         func(*args, **kwargs)
         end = time.time()
-        print('Time difference is {}'.format(end-start))
+        # print('Time difference is {}'.format(end-start))
+        with open('result.txt', 'a') as file:
+            file.write('Time difference is {}\n'.format(end-start))
     return speed

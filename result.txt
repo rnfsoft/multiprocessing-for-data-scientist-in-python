@@ -1,0 +1,4 @@
+Time difference is 1.048689842224121
+Time difference is 1.9281423091888428
+Time difference is 0.0012674331665039062
+Time difference is 0.10327506065368652
